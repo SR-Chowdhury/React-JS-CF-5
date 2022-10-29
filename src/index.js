@@ -5,7 +5,13 @@ import ReactDOM from 'react-dom/client';
 // import App from './intro-state/app';
 
 //Chapter Five: Why Need State & How to update State
-import App from './update-state/app';
+// import App from './update-state/app';
+
+//Chapter Five: Sample Timer
+// import App from './sample-timer/app';
+
+//Chapter Five: Practice Problem 1
+import App from './practice-problem-1/app';
 
 import reportWebVitals from './reportWebVitals';
 
